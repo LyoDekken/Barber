@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "src/*"
+      ]
+    }
+  },
+  "extends": "expo/tsconfig.base",
+  "allowJs": true,
+  "esModuleInterop": true,
+  "lib": [
+    "DOM",
+    "ESNext"
+  ],
+  "moduleResolution": "node",
+  "noEmit": true,
+  "resolveJsonModule": true,
+}
