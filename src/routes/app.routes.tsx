@@ -1,13 +1,13 @@
-import React from "react";
-import { createNativeStackNavigator } from "@react-navigation/native-stack";
-import Home from "../pages/Home";
+// import React from "react";
+// import { createNativeStackNavigator } from "@react-navigation/native-stack";
+// import Home from "../screens/Home";
 
-const AppStack = createNativeStackNavigator();
+// const AppStack = createNativeStackNavigator();
 
-export default function AppRoutes() {
-  return (
-    <AppStack.Navigator>
-      <AppStack.Screen name="Home" component={Home} />
-    </AppStack.Navigator>
-  );
-}
+// export default function AppRoutes() {
+//   return (
+//     <AppStack.Navigator>
+//       <AppStack.Screen name="Home" component={Home} />
+//     </AppStack.Navigator>
+//   );
+// }

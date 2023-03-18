@@ -1,9 +1,5 @@
-import firebase from "firebase/app"
-import "firebase/database"
-import "firebase/auth"
-
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-const firebaseConfig = {
+export const FIREBASE_CONFIG = {
   apiKey: "AIzaSyAgwLGlknshC5X_xSkJNL_akhhAVAMgpj4",
   authDomain: "my-app-cb0e1.firebaseapp.com",
   databaseURL: "https://my-app-cb0e1-default-rtdb.firebaseio.com",
@@ -14,10 +10,3 @@ const firebaseConfig = {
   measurementId: "G-L4CVPBVYVC"
 };
 
-// Initialize Firebase
-
-if(!firebase.getApp.length) {
-  firebase.initializeApp(firebaseConfig)
-}
-
-export default firebase;

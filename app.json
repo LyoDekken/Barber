@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Project-Native",
-    "slug": "Project-Native",
+    "slug": "project-native",
     "version": "1.0.0",
     "main": "./App.tsx",
     "orientation": "portrait",
@@ -15,6 +15,9 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
     "ios": {
       "supportsTablet": true
     },
