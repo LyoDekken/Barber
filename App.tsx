@@ -1,16 +1,16 @@
-import React from 'react';
-import { View, Text } from 'react-native';
-import fireabase from "./src/services/firebase"
+import "react-native-gesture-handler";
+import React from "react";
+import { NavigationContainer } from "@react-navigation/native";
+import { StatusBar } from "react-native";
+
+import Index from "./src/routes";
+import fireabase from "./src/services/firebase";
 
 export default function App() {
   return (
-    <View>
-      <Text>
-        Oiii
-      </Text>
-      <Text>
-        Oiii
-      </Text>
-    </View>
+    <NavigationContainer>
+      <StatusBar backgroundColor="#131313" barStyle="light-content" />
+      <Index />
+    </NavigationContainer>
   );
 }
