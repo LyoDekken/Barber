@@ -56,5 +56,5 @@ If you have any questions, please contact us through the channels below. Happy C
 
 ## License
 
-GO is [MIT licensed](LICENSE).
+React is [MIT licensed](LICENSE).
 
