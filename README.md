@@ -1,4 +1,6 @@
-# [RN](# Login with React Native Firebase) 
+<a id="Login-with-React-Native-Firebase"></a>
+
+# [Login-with-React-Native-Firebase](#Login-with-React-Native-Firebase) 
 
 ## How to use?
 
@@ -39,7 +41,7 @@ export const FIREBASE_CONFIG = {
 
 ## Support
 
-If you have any questions, please contact us through the channels below.
+If you have any questions, please contact us through the channels below. Happy Coding 🚀
 
 <div>
 <a href="https://www.linkedin.com/in/humbertohenrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -48,13 +50,11 @@ If you have any questions, please contact us through the channels below.
 
 ## Autor(es)
 
-| [<img src="https://avatars.githubusercontent.com/u/96363582?v=4" width=115><br><sub>Humberto Oliveira</sub>](https://github.com/LyoDekken) | :----------------------------------------------------------------------------------------------------------------------------------------: | 
+| [<img src="https://avatars.githubusercontent.com/u/96363582?v=4" width=115><br><sub>Humberto Oliveira</sub>](https://github.com/LyoDekken) |   
 
-[Back to the top](#RN)
+[Back to the top](#Login-with-React-Native-Firebase)
 
 ## License
 
 GO is [MIT licensed](LICENSE).
-
-### Happy Coding 🚀
 
