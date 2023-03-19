@@ -50,7 +50,7 @@ If you have any questions, please contact us through the channels below. Happy C
 
 ## Autor(es)
 
-| [<img src="https://avatars.githubusercontent.com/u/96363582?v=4" width=115><br><sub>Humberto Oliveira</sub>](https://github.com/LyoDekken) |   
+[<img src="https://avatars.githubusercontent.com/u/96363582?v=4" width=115><br><sub>Humberto Oliveira</sub>](https://github.com/LyoDekken) 
 
 [Back to the top](#Login-with-React-Native-Firebase)
 
